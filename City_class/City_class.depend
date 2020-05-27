@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589643064 source:d:\programs language\labs sem 2\lab 1 var 8\city_class\main.cpp
+	<iostream>
+	"city.h"
+
+1589642464 source:d:\programs language\labs sem 2\lab 1 var 8\city_class\city.cpp
+	"city.h"
+
+1589642464 d:\programs language\labs sem 2\lab 1 var 8\city_class\city.h
+	<iostream>
+
