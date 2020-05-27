@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1589661158 source:d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\city.cpp
+	"city.h"
+
+1589660963 d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\city.h
+	"country.h"
+	<iostream>
+	<string>
+
+1589655248 source:d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\country.cpp
+	"country.h"
+
+1589660735 d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\country.h
+	"geographyobject.h"
+	<iostream>
+	<string>
+
+1589652388 source:d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\geographyobject.cpp
+	"geographyobject.h"
+
+1589652248 d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\geographyobject.h
+	<string>
+
+1589661071 source:d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\main.cpp
+	<iostream>
+	"geographyobject.h"
+	"country.h"
+	"city.h"
+	"wildobject.h"
+
+1589660665 source:d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\wildobject.cpp
+	"wildobject.h"
+
+1589660735 d:\programs language\labs sem 2\lab 3 var 8\geographyobjects\wildobject.h
+	"geographyobject.h"
+	<iostream>
+	<string>
+
